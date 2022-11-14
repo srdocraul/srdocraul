@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raul</h1>
 <h3 align="center">A passionate backend developer from Croatia</h3>
 
-- 🔭 I’m currently working on **Full-stack application with React and Spring**
+- 🔭 I’m currently working on **backend application with Spring**
 
-- 🌱 I’m currently learning **React and Spring**
+- 🌱 I’m currently learning **Spring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
