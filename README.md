@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raul</h1>
 <h3 align="center">A passionate backend developer from Croatia</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srdocraul" alt="srdocraul" /></a> </p>
 
 - 🔭 I’m currently working on **Full-stack application with React and Spring**
 
